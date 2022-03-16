@@ -5,9 +5,10 @@ The Yelp dataset was originally released in order for students to do research an
 1. [Introduction](##introduction)
 2. [Goal](##goal)
 3. [Technology Stack](##technology-stack)
-4. [Project Architecture](##project-architecture)
-5. [ER Diagram](##er-diagram)
-6. [Analysis](##analysis)
+4. [Bucket Calculation](##bucket-calculation)
+5. [Project Architecture](##project-architecture)
+6. [ER Diagram](##er-diagram)
+7. [Analysis](##analysis)
 
 ## Introduction
 Most businesses seek to get reviews on their goods and services one way or another. It is a most basic way for the business to improve their efficiency and subsequently their bottom-line. Get the review is not only the issue, ability to extract and visualize analytics from review data is critical to business success.
@@ -23,6 +24,27 @@ Goal is to create data pipeline for yelp dataset to finally load in hive externa
 - HDFS
 - Hive
 - PowerBI
+
+## Bucket Calculation
+
+Block Size in HDFS = 128 MB
+
+Size of review dataset = 5120 MB
+
+5120/128 = 40
+
+2^x = 40 where x will be number of buckets
+
+Hence we will take number of bucket = 6
+
+Size of user dataset = 3205 MB
+
+3205/128 = 25
+
+2^x = 25  where x will be number of buckets
+
+Hence we will take number of bucket = 5
+
 
 ## Project Architecture
 
