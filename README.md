@@ -16,3 +16,5 @@ Goal is to create data pipeline for yelp dataset to finally load in hive externa
 
 ![image](https://user-images.githubusercontent.com/100192175/158570014-b898e40e-586f-41f2-ba52-9a4b3e798653.png)
 
+# ER Diagram
+<img width="540" alt="Yelp-ER-Diagram" src="https://user-images.githubusercontent.com/100192175/158572672-48e74fbd-1fc5-4955-a7f2-0e3a4251a2e7.png">
