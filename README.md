@@ -59,8 +59,17 @@ Hence we will take number of bucket = 5
 <img width="658" alt="User_Review_Count" src="https://user-images.githubusercontent.com/100192175/158600926-6bf5117d-630e-41e5-8c0c-ca3af93dbf78.png">
 
 #### Average Rating of business per year
+![Screenshot 2022-03-16 190622](https://user-images.githubusercontent.com/100192175/158607652-260bd0ec-e5eb-46dd-95d2-314f83cb7e36.png)
 
 #### Top users who posted funny reviews
 <img width="960" alt="FunnyPerUser" src="https://user-images.githubusercontent.com/100192175/158602856-18e69751-aa69-45fb-bf81-0c989a512c65.png">
 
-#### 
+#### Top users who posted useful reviews
+<img width="853" alt="TopUsefulReviews" src="https://user-images.githubusercontent.com/100192175/158607389-8dcc0a5a-a037-495a-bd9c-cc5daa192982.png">
+
+#### Top users who have most fans
+<img width="613" alt="TopFans" src="https://user-images.githubusercontent.com/100192175/158607916-36578860-7d9f-4c6f-a77b-c3aa011668c9.png">
+
+#### Business who has most reviews
+![Screenshot 2022-03-16 191016](https://user-images.githubusercontent.com/100192175/158608140-31aad9a5-d570-4c19-bb58-7766b6c2a97e.png)
+
