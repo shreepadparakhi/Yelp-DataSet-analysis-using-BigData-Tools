@@ -1,6 +1,13 @@
 # Yelp-DataSet-analysis-using-BigData-Tools
 The Yelp dataset was originally released in order for students to do research and analysis in to how food trends begin and how they impact locations. The dataset includes data about businesses, reviews, users, checkins, tips, and photos. Here in my project I used users,review and business dataset.
 
+## Table of Contents
+1. [Introduction](##introduction)
+2. [Goal](##goal)
+3. [Technology Stack](##technology-stack)
+4. [Project Architecture](##project-architecture)
+5. [ER Diagram](##er-diagram)
+6. [Analysis](##analysis)
 
 ## Introduction
 Most businesses seek to get reviews on their goods and services one way or another. It is a most basic way for the business to improve their efficiency and subsequently their bottom-line. Get the review is not only the issue, ability to extract and visualize analytics from review data is critical to business success.
@@ -13,9 +20,9 @@ Beyond processing this data, we will ingest the final output of our data process
 Goal is to create data pipeline for yelp dataset to finally load in hive external tables so that analysis team can make use of this data. Along with this goal is to extract required data using some free-form queries for geeral business usecases.
 
 ## Technology Stack
-1. HDFS
-2. Hive
-3. PowerBI
+- HDFS
+- Hive
+- PowerBI
 
 ## Project Architecture
 
