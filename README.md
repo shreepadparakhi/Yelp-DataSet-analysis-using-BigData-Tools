@@ -54,3 +54,13 @@ Hence we will take number of bucket = 5
 <img width="540" alt="Yelp-ER-Diagram" src="https://user-images.githubusercontent.com/100192175/158572672-48e74fbd-1fc5-4955-a7f2-0e3a4251a2e7.png">
 
 ## Analysis
+
+#### Top Users who posted reviews (by count)
+<img width="658" alt="User_Review_Count" src="https://user-images.githubusercontent.com/100192175/158600926-6bf5117d-630e-41e5-8c0c-ca3af93dbf78.png">
+
+#### Average Rating of business per year
+
+#### Top users who posted funny reviews
+<img width="960" alt="FunnyPerUser" src="https://user-images.githubusercontent.com/100192175/158602856-18e69751-aa69-45fb-bf81-0c989a512c65.png">
+
+#### 
