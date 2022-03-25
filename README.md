@@ -47,11 +47,10 @@ Hence we will take number of bucket = 5
 
 
 ## Project Architecture
-
-![image](https://user-images.githubusercontent.com/100192175/158570014-b898e40e-586f-41f2-ba52-9a4b3e798653.png)
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/100192175/160176730-17f0882b-c3e7-4e8a-a370-7407646b9e4d.png">
 
 ## ER Diagram
-<img width="540" alt="Yelp-ER-Diagram" src="https://user-images.githubusercontent.com/100192175/158572672-48e74fbd-1fc5-4955-a7f2-0e3a4251a2e7.png">
+<img width="318" alt="image" src="https://user-images.githubusercontent.com/100192175/160176615-f8448a40-db73-4db2-85fd-a118b48cdb87.png">
 
 ## Analysis
 
